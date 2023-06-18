@@ -2,7 +2,7 @@ import os
 import subprocess
 import shlex
 
-folder_path = './dreamchasers3'
+folder_path = './temp/dreamchasers3'
 
 for filename in os.listdir(folder_path):
     file_path = os.path.join(folder_path, filename)
