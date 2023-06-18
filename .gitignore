@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 temp/
-seperate/
+separated/
 
 # Distribution / packaging
 .Python
