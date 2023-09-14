@@ -1,0 +1,31 @@
+Good *****
+DC offset: -1.6666666666666665e-06
+Min level: -5.666666666666667
+Max level: 5.0
+
+Good Normalized *****
+DC offset: 0.0011806666666666667
+Min level: -1.0
+Max level: 81.66666666666667
+
+
+Vocals 1
+DC offset: 0.0008766666666666667
+Min level: -127.0
+Max level: 153.66666666666666
+
+Vocals 2
+DC offset: 1.9666666666666666e-05
+Min level: -7.0
+Max level: 8.0
+
+Vocals 3
+DC offset: 3.6666666666666666e-06
+Min level: -8.333333333333334
+Max level: 8.333333333333334
+
+
+(jupyter) (base) Maslaxs-Air:vits-svc-data-collector maslaxali$ python utils/decpials.py
+DC offset: 1e-06
+Min level: -7.0
+Max level: 7.0
